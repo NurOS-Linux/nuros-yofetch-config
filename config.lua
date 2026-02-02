@@ -29,18 +29,18 @@ yo.shell({ "/bin/bash", "-c" })
 
 -- NurOS Logo with blue gradient
 yo.logo([[
-{color.blue}         ___╓╓___
-{color.blue}    _▄▄▓▓▀▀╜╜╨▀▓▓▓╗_
-{color.blue}  ╓▓▓▀²          `╙▓▓╖
-{color.blue} ╣▓▀   _▄▓▓▓▓▓▓W_   ╙▓▓
-{color.blue}╣▓╜  ,▓▓▓▓▓▓▓▓▓▓▓▓_  ²▓▓
+{color.blue}         ___╓╓___  
+{color.blue}     _▄▄▓▓▀▀╜╜╨▀▓▓▓╗_ 
+{color.blue}   ╓▓▓▀²          `╙▓▓╖ 
+{color.blue}  ╣▓▀   _▄▓▓▓▓▓▓W_   ╙▓▓ 
+{color.blue} ╣▓╜  ,▓▓▓▓▓▓▓▓▓▓▓▓_  ²▓▓
 {color.blue}╒▓▌   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ║▓m
 {color.blue}╞▓▓  í▓▓▓▓▓▓▓▓▓▓▓▓▓▓h  ╞▓╡
 {color.blue}²▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ║▓h
 {color.blue} ║▓▄   ╙▓▓▓▓▓▓▓▓▓▓╜   ƒ▓▓
 {color.blue}  ╙▓▓_   ⁿ╙╨╝╝╝╜²   _╢▓╜
-{color.blue}   ╙▓▓╗__       _╗▓▓╜
-{color.blue}     `╙╝▓▓▓▓▓▓▓▓╝╙
+{color.blue}    ╙▓▓╗__       _╗▓▓╜
+{color.blue}      `╙╝▓▓▓▓▓▓▓▓╝╙
 ]])
 
 -- Get system information

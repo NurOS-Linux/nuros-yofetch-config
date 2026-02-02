@@ -16,9 +16,6 @@ NurOS is an independent, rolling-release Linux distribution designed as a univer
 
 ## Features
 
-### Blue Gradient Logo
-Custom ASCII art logo with gradient effect from blue to cyan, representing NurOS's visual identity.
-
 ### Minimal Information Display
 Following the FRESH philosophy, shows only essential information:
 - **OS**: NurOS (rolling release, no version number needed)
